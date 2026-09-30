@@ -31,6 +31,11 @@ I am an Early-Career AI/ML Engineer specializing in **Computer Vision**, **Agent
 
 ## 💻 Key Projects & Platform Infrastructure
 
+### 🩺 [FalsePay](https://github.com/sudip-manchare/hcp-outbound) - *CMS Open Payments Dispute Monitor*
+
+* Built an end-to-end system that flags inaccurate CMS Open Payments records and guides physicians through disputes, with a payment ingestion pipeline, NPI matching against the NPPES registry, risk triage, and Gemini-powered explanations of flagged payments.
+* Won 1st place among 500+ participants at VTHacks 14 (Impiricus healthcare track)!!
+
 ### 🦞 [LobsterLink](https://github.com/sudip-manchare/find-my-lobster) — *Standalone API Platform & Dashboard*
 
 * Built a standalone backend API platform with an **OpenClaw-like execution flow** and interactive frontend dashboard for monitoring and orchestrating complex task flows.
@@ -67,7 +72,8 @@ I am an Early-Career AI/ML Engineer specializing in **Computer Vision**, **Agent
 ## 🏅 Highlights & Recognitions
 
 * 📜 **Publication**: 21st IEEE India Council International Conference (INDICON 2024)
-* 🏆 **Hackathon Win**: Won the Major League Hacking Best Use of DigitalOcean prize at HackFax x PatriotHacks 2026!!
+* 🏆 **Hackathon Win**: Won 1st place among 500+ participants at VTHacks 14 (Impiricus healthcare track) with FalsePay!!
+* 🏆 **Hackathon Win**: Won the Major League Hacking Best Use of DigitalOcean prize among 400+ participants at HackFax x PatriotHacks 2026!!
 * ⚡ Invited to New York City yesterday as finalists to showcase the solution at the AI Finance Hackathon Championship!!
 
 ---
